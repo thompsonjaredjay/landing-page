@@ -3,3 +3,14 @@ body {
     flex-direction: column;
     font-family: Roboto;
 }
+
+.top,
+.footer {
+    background-color: #1F2937;
+}
+
+.top-title {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
