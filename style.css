@@ -4,6 +4,7 @@ body {
     font-family: Roboto;
 }
 
+/*Fonts and Styling*/
 .top,
 .footer {
     background-color: #1F2937;
@@ -24,6 +25,17 @@ body {
 .logo {
     font-size: 24px;
     color: #F9FAF8;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
 }
 
 .image {
@@ -85,3 +97,5 @@ h1 {
 .footer {
     color: #E5E7EB;
 }
+
+/* Layout */
