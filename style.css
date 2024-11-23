@@ -26,3 +26,8 @@ body {
     color: #F9FAF8;
 }
 
+#top,
+#bottom,
+.cta {
+    background-color: #3882F6
+}
