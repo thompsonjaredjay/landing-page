@@ -10,6 +10,10 @@ body {
     background-color: #1F2937;
 }
 
+.top {
+    padding: 0 100px 50px;
+}
+
 .top-title {
     font-size: 48px;
     color: #F9FAF8;
@@ -92,6 +96,14 @@ h1 {
 
 .author {
     font-weight: bold;
+}
+
+.bottom {
+    padding: 50px 100px; 
+}
+
+.cta {
+    padding: 25px 50px;
 }
 
 .footer {
