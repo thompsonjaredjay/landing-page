@@ -29,11 +29,26 @@ body {
 #top,
 #bottom,
 .cta {
-    background-color: #3882F6
+    background-color: #3882F6;
 }
 
 h1 {
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
+}
+
+.third {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 100;
+
+}
+
+.author {
+    font-weight: bold;
 }
