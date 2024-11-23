@@ -11,7 +11,7 @@ body {
 }
 
 .top {
-    padding: 0 100px 50px;
+    padding: 20px 100px 50px;
 }
 
 .top-title {
@@ -109,3 +109,13 @@ h1 {
 }
 
 /* Layout */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    gap: 16px;
+}
