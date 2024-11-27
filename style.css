@@ -133,6 +133,12 @@ ul {
     justify-content: space-between;
 } 
 
+.top-content {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
 .subtext {
     max-width: 400px; 
 }
