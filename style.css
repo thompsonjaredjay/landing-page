@@ -19,6 +19,7 @@ body {
     color: #F9FAF8;
     font-weight: 900;
     max-width: 450px;
+    margin-right: 100px;
 }
 
 .subtext, 
@@ -31,6 +32,7 @@ body {
     font-size: 24px;
     color: #F9FAF8;
     font-weight: bold;
+    margin-right: 310px;
 }
 
 ul {
@@ -112,6 +114,10 @@ h1 {
 
 /* Layout */
 
+div {
+    flex-shrink: 0;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -129,4 +135,8 @@ ul {
 
 .subtext {
     max-width: 400px; 
+}
+
+.image {
+    align-self: center;
 }
