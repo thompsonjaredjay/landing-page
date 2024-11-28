@@ -159,11 +159,14 @@ ul {
     align-items: center;
 }
 
+.second {
+    padding: 20px 100px 100px;
+}
+
 .illustrations {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    
 }
 
 .card {
