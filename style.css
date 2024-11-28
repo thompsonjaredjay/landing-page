@@ -161,6 +161,18 @@ ul {
 
 .illustrations {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
+    
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-subtext {
+    text-align: center;
+    max-width: 150px;
 }
