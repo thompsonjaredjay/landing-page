@@ -198,3 +198,8 @@ ul {
     align-self: center;
     flex-shrink: 0;
 }
+
+#cta-title {
+    font-weight: bold;
+    font-size: 20px;
+}
