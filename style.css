@@ -179,3 +179,12 @@ ul {
     text-align: center;
     max-width: 150px;
 }
+
+.third {
+    display: flex;
+    flex-direction: column;
+}
+
+.author {
+    align-self: flex-end;
+}
