@@ -90,8 +90,8 @@ h1 {
 .border {
     border-radius: 10px;
     outline: 2px solid #3882F6;
-    height: 75px;
-    width: 75px;
+    height: 150px;
+    width: 150px;
 }
 
 .quote {
