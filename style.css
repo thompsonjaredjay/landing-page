@@ -188,3 +188,13 @@ ul {
 .author {
     align-self: flex-end;
 }
+
+.cta {
+    display: flex;
+    justify-content: space-between;
+}
+
+#bottom {
+    align-self: center;
+    flex-shrink: 0;
+}
