@@ -79,6 +79,7 @@ h1 {
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
+    text-align: center;
 }
 
 .third {
@@ -114,7 +115,15 @@ h1 {
 
 /* Layout */
 
-div {
+.header-links,
+.logo,
+.top-title,
+.subtext,
+#top,
+.top,
+.header,
+.top-main,
+.top-content {
     flex-shrink: 0;
 }
 
@@ -145,6 +154,12 @@ ul {
 
 .image {
     align-self: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.illustrations {
     display: flex;
     justify-content: center;
     align-items: center;
